@@ -22,6 +22,6 @@ meteor run
 ### Public
 
 If you just want to see the app up and running you can just visit the following 
-[link](https://gist.github.com/PurpleBooth/b24679402957c63ec426), and create your account.
+[link](https://short-link-dnava.herokuapp.com/), and create your account.
 
 Diego Nava :)
