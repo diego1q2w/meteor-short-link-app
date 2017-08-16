@@ -5,7 +5,7 @@ Meteor installed and then run the following commands:
 ### Install
 
 ```
-git@github.com:diego1q2w/meteor-short-link-app.git
+git clone git@github.com:diego1q2w/meteor-short-link-app.git
 
 cd meteor-short-link-app
 
@@ -23,5 +23,7 @@ meteor run
 
 If you just want to see the app up and running you can just visit the following 
 [link](https://short-link-dnava.herokuapp.com/), and create your account.
+
+first shorted link https://short-link-dnava.herokuapp.com/rk11Lhbd-
 
 Diego Nava :)
